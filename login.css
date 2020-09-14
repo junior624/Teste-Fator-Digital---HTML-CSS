@@ -1,0 +1,107 @@
+@font-face{
+    font-family: proxima;
+    src: url("fontes/ProximaNova-Light.woff");
+    font-family: 'myriad';
+    src: url("fontes/myriad-pro-8.woff");
+}
+
+
+h3 {
+position: relative;
+padding-top: 10px;
+padding-left: 10px;
+padding-bottom: 0px;
+font-family: 'Open Sans', sans-serif;
+font-weight: bolder;
+}
+
+.card {
+box-shadow: 1px 1px 5px #ccc;
+background-color: white;
+padding: 30px;
+font-family: proxima, sans-serif;
+padding-bottom: 0;
+}
+
+.form {
+width: 400px;
+padding-left: 200px;
+padding-top: 10px;
+font-family: proxima, sans-serif;
+margin-bottom: 10px;
+margin-left: -100px;
+}
+
+.card-group > input {
+border-radius: 30px;
+background-color:#eaeaea;
+border: none;
+padding: 15px;
+width: 300px;
+font-family: 'proxima' sans-serif;
+font-style: italic;
+margin-bottom: 15px;
+}
+
+.card-group > button {
+font-family: 'proxima' sans-serif;
+font-size: 13pt;
+color:white;
+border-radius: 30px;
+background-color:#009ad9;
+border: none;
+width: 175px;
+padding: 20px
+}
+
+p#esqueci {
+font-family:'myriad';
+font-size: 9pt;
+color: #66b6e3;
+text-decoration: underline;
+position: static;
+margin-left: 200px;
+margin-top: -40px;
+}
+
+.card2 {
+background-color: white;
+padding: 30px;
+font-family: 'proxima', sans-serif;
+}
+    
+.form2 {
+width: 400px;
+margin-left: 400px;
+font-family: 'proxima', sans-serif;
+margin-bottom: 10px;
+}
+
+p#cadastrar {
+position: static;
+padding-top: 10px;
+padding-left: 10px;
+padding-bottom: 0px;
+font-family: 'Open Sans', sans-serif;
+font-weight: bolder;
+font-size: 15pt;
+margin-top: -250px;
+margin-left: 70px;
+}
+
+.card-group2 > button {
+font-family: 'proxima' sans-serif;
+font-size: 13pt;
+color:white;
+border-radius: 100px;
+background-color:#009ad9;
+border: none;
+width: 350px;
+height: 90px;
+padding: 20px;
+margin: 0;
+top: 50%;
+left: 50%;
+    
+}
+
